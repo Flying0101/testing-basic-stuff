@@ -1,0 +1,20 @@
+.lol{ 
+    position: absolute;
+    left: 40%;
+    top: 60%;
+
+}
+
+.Chatt{
+    position: absolute;
+    left: 25%;
+    border: 5px solid black;
+    width: 40%;
+    height: 40%;
+    top: 15%;
+}
+
+.chattH{ 
+    position: absolute;
+    left: 40%;
+}

@@ -1,0 +1,1 @@
+release: npx cowsay Detta var ju simpelt lol
